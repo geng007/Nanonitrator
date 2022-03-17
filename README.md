@@ -1,2 +1,2 @@
 # Nanonitrator
-Novel Nanonitrator enhances nitrate’s protective effect
+AI virtual screening framework for drug combination of sodium nitrate
