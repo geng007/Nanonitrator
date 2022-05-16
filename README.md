@@ -1,2 +1,2 @@
 # Nanonitrator
-AI virtual screening framework for drug combination of sodium nitrate
+Nanonitrator: novel enhancer of inorganic nitrate’s protective effects, predicated on deep learning approach
