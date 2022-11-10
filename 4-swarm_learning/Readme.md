@@ -5,4 +5,3 @@ Scripts from the manuscript Warnat-Herresthal, S., Schultze, H., Shastry, K.L. e
 - Script for the generation of the supplementary tables and statistics
 - Script for the neural network as used in the predictions
 
-For the documentation of the swarm learning software see https://github.com/HewlettPackard/swarm-learning
